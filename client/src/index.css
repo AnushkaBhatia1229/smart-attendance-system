@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  font-family:'Segoe UI',sans-serif;
+  background:#eef3fb;
+}
+
+a{
+  text-decoration:none;
+}
+
+button{
+  cursor:pointer;
+}
+
+input,button{
+  outline:none;
+}
